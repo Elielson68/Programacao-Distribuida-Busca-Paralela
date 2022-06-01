@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n++fLqnZkdcldrebBfliBiWBOZ6Ue/wV5e5xcpUOM9ROHeU/klSHJEfmqY4/deeHA1tJ1CKXspER5J9lpTrYbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eliel\\Documents\\CSharp_Projects\\AtividadeFabio_SocketParalelismo\\CSharp\\ProcuradorDeArquivos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eliel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
